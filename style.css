@@ -1,0 +1,180 @@
+#head_container {
+    position: relative;
+    width: auto;
+}
+
+
+#head-container img{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+.kalam-bold {
+    font-family: "Kalam", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.centered {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    font-family: kalam;
+  }
+
+
+
+.Hello {
+    position: relative;
+    top: 1000px;
+    
+    height: 300px;
+    width: auto;
+    
+}
+
+.Hello > h1 {
+    color: #1d2885;
+    /* left: 50%;
+    right: auto; */
+    text-align: center;
+    font-size: 3rem;
+    position: absolute;
+    left: 45%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+.Hello > p {
+    position: absolute;
+    left: 35%;
+    top: 90px;
+    color: #1d2885;
+    font-size: 1.5rem;
+}
+
+
+
+
+.body1 {
+    position: relative;
+    
+    top: 200px;
+}
+
+.title2 {
+    color: #1d2885;
+    position: absolute;
+    top: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    left: 43%;
+    font-size: 3rem;
+}
+
+.body1 #python-img {
+    position: absolute;
+    top: 1000px;
+    height: auto;
+    width: 25%;
+    left: 300px;
+}
+
+.body1 > .python-description {
+    position: absolute;
+    color: #1d2885;
+    top: 1125px;
+    left: 630px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+    width: 600px;
+}
+
+.body1 > #english-icon {
+    position: absolute;
+    top: 1300px;
+    left: 370px;
+    height: auto;
+    width: 15%;
+}
+
+.english-skill {
+    position: relative;
+    border: 10px solid white;
+    top: 1000px;
+}
+
+.english-skill > #english-icon {
+    position: absolute;
+    top: 300px;
+    left: 310px;
+    width: 20%;
+    height: auto;
+}
+
+.english-skill > .english-description {
+    color: #1d2885;
+    position: absolute;
+    top: 400px;
+    left: 630px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+    width: 600px;
+}
+
+
+.contact {
+    position: relative;
+    top: 1700px;
+    
+    height: 500px;
+    width: 100%;
+}
+
+.contact > h1 {
+    font-size: 3rem;
+    color: #1d2885;
+    left: 42%;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact > h3 {
+    position: absolute;
+    top: 80px;
+    color: #1d2885;
+    left: 43%;
+}
+
+.contact > a {
+    position: absolute;
+    display: inline-block;
+    top: 150px;
+    left: 30%;
+    height: 300px;
+}
+
+
+
+.contact > a > .button-contact{
+    background-color: #49b9f9;
+    border-radius: 12px;
+    height: 80px;
+    width: 160px;
+    position: absolute;
+    left: 250px;
+    margin: 0;
+    top: 20%;
+    font-size: 1.5rem;
+    color: #1d2885;
+
+    
+}
+
+
+  
